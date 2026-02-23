@@ -3,7 +3,8 @@ departamentos = [
     'CSA - CTG',
     'CSA - NL',
     'CSA - GZ',
-    'CSA - DV',
+    'CSA - DV I',
+    'CSA - DV II',
     'EPSA',
     'AIACOM',
     'ESA',
@@ -26,4 +27,5 @@ departamentos = [
     'Internacionalização',
     'Secretaria',
     'Coordenação de Manutenção'
+
 ]
