@@ -4,12 +4,13 @@ colaboradores_por_departamento = {
     'Julliana Cristina Bertoni': ['Financeiro'],
     'Juliana Silva Casagrande': ['Contabilidade'],
     'Leila Oliveira': ['Assessoria Jurídica'],
-    'Eduardo dos Santos Lopes': ['CSA - CTG'],
+    'Alice Leal Moreira': ['CSA - CTG'],
     'Jaqueline Andrade Fonseca': ['CSA - GZ'],
     'Sergio da Silva Santos': ['Suprimentos', 'Administrativo'],
     'Rodrigo Mourão': ['Estratégia e Novos Negócios'],
     'Marcela Poeiras': ['Sustentabilidade'],
-    'Karla Camargos Souza': ['CSA - DV'],
+    'Karla Camargos Souza': ['CSA - DV II'],
+    'Taianny Souza Pinto': ['CSA - DV I'],
     'Fabricio de Paula Martins': ['CSA - NL'],
     'Karinne Dias': ['Departamento de Pessoal'],
     'Matheus Tine': ['Recursos Humanos'],
@@ -41,4 +42,5 @@ colaboradores_por_departamento = {
     'Carina Pugliali de Lima': ['ESA'],
     'Aleluia Heringer': ['EPSA'],
     'Edna de Souza Freitas': ['Adeodato']
+
 }
