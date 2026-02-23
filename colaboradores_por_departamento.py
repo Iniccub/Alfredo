@@ -32,7 +32,6 @@ colaboradores_por_departamento = {
     'Pablo Ronam João': ['CSA - CTG'],
     'Rafael Coelho Ferreira': ['Assessoria Jurídica'],
     'Miryam Laila Ferreira': ['Gestão de Documentos'],
-    'Taianny Souza Pinto': ['CSA - DV'],
     'Luciana Alves Faria': ['Tecnologia da Informação'],
     'Mateus Gomes da Silva': ['ILALI'],
     'Jonathan Felix de Souza': ['Pastoralidade'],
@@ -44,4 +43,5 @@ colaboradores_por_departamento = {
     'Edna de Souza Freitas': ['Adeodato']
 
 }
+
 
