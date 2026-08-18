@@ -232,7 +232,7 @@ with st.sidebar:
     )
     
     # Data e hora
-    data = st.date_input("Data da Reunião", min_value=datetime.now().date())
+    data = st.date_input("Data da Reunião")
     hora_inicio = st.time_input("Hora de Início")
     duracao = st.number_input("Duração (horas)", min_value=0.5, max_value=8.0, value=1.0, step=0.5)
     
