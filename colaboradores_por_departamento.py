@@ -40,7 +40,8 @@ colaboradores_por_departamento = {
     'Eliana Dalcim': ['ESA'],
     'Carina Pugliali de Lima': ['ESA'],
     'Raquel Menezes Pacheco': ['EPSA'],
-    'Edna de Souza Freitas': ['Adeodato']
+    'Edna de Souza Freitas': ['Adeodato'],
+    'Julia Espeschit Rodrigues': ['Sustentabilidade']
 
 }
 
